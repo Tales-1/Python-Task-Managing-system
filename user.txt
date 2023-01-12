@@ -1,1 +1,2 @@
 admin, adm1n
+manager, manager123

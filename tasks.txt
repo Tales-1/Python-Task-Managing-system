@@ -1,2 +1,6 @@
-admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, No
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, Yes
 admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No
+manager, attend meeting, don't forget to attend the meeting!, 12 Thu 2023, 23 Jan 2023, Yes
+manager, Take a break, Make sure you have breaks at regular intervals, 12 Thu 2023, 29 Jan 2023, No
+admin, clean kitchen, ensure kitchen is clean, 12 Thu 2023, 11 Jan 2023, Yes
+manager, cup of coffee, make myself a cup of coffee, 12 Thu 2023, 13 Jan 2023, Yes

@@ -1,0 +1,18 @@
+USER OVERVIEW REPORT 
+
+Total number of users: 2
+Total number of tasks generated and tracked: 6
+
+----- Tasks assigned to: admin -----
+Total number of tasks: 3
+Percentage of total tasks assigned: 50%
+Percentage of tasks complete: 67%
+Percentage of incomplete tasks: 33%
+Percentage of overdue tasks: 33%
+
+----- Tasks assigned to: manager -----
+Total number of tasks: 3
+Percentage of total tasks assigned: 50%
+Percentage of tasks complete: 67%
+Percentage of incomplete tasks: 33%
+Percentage of overdue tasks: 0%
